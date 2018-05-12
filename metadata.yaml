@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '39310'
     url: http://www.gutenberg.org/2009/agents/39310
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38201#Wild-Spain--Espa-a-agreste-Records-of-Sport-with-Rifle-Rod-and-Gun-Natural-History-Exploratio_
 gutenberg_issued: '2011-12-03'
 gutenberg_type: Text
 identifiers:
