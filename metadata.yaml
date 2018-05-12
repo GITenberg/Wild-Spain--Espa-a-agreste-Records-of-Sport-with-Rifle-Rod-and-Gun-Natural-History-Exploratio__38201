@@ -1,0 +1,35 @@
+_repo: Wild-Spain--Espa-a-agreste-Records-of-Sport-with-Rifle-Rod-and-Gun-Natural-History-Exploratio__38201
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38201-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Chapman, Abel
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '39309'
+    url: http://www.gutenberg.org/2009/agents/39309
+    wikipedia: http://en.wikipedia.org/wiki/Abel_Chapman
+  - agent_name: Buck, Walter John
+    alias: Buck, Walter J.
+    gutenberg_agent_id: '39310'
+    url: http://www.gutenberg.org/2009/agents/39310
+description: ''
+gutenberg_issued: '2011-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38201'
+  lccn: '59057587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SK'
+- !lcsh 'Game and game-birds -- Spain'
+- !lcsh 'Hunting -- Spain'
+title: 'Wild Spain (España agreste)
+
+  Records of Sport with Rifle, Rod, and Gun, Natural History Exploration'
+url: http://www.gutenberg.org/ebooks/38201
